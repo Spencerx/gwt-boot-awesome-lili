@@ -142,6 +142,7 @@ application development easy to start with :sparkling_heart:
 ## HTTP and REST Library
 
 - [domino-rest](https://github.com/DominoKit/domino-rest) - REST framework :sparkling_heart:
+- [resty-gwt](https://github.com/NewsRx/resty-gwt) REST framework based on jakarta classes :sparkling_heart:
 - [resty-gwt](https://github.com/resty-gwt/resty-gwt) - REST framework :sparkling_heart:
 - [requestor](https://github.com/reinert/requestor) - HTTP Event-Driven Client API framework :sparkling_heart: 
 
