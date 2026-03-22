@@ -154,6 +154,7 @@ application development easy to start with :sparkling_heart:
 validator for GWT :sparkling_heart:
 - [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) - Java Bean 
 validators :sparkling_heart:
+- [malio](https://github.com/NaluKit/malio) - Validation library for Java, GWT & J2CL :sparkling_heart:
 
 ## Data Binding
 - [hexa.binding](https://github.com/ltearno/hexa.tools/tree/master/hexa.binding) - Fast dynamic data binding between values, 
