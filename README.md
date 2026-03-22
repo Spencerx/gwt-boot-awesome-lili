@@ -118,7 +118,7 @@ application development easy to start with :sparkling_heart:
 ## Router
 
 - [mvp4g2](https://github.com/mvp4g/mvp4g2) - :sparkling_heart:
-- [nalu](https://github.com/NaluKit/nalu) - :sparkling_heart:
+- [nalu](https://github.com/NaluKit/nalu) - Routing based application framework for GWT & J2CL :sparkling_heart:
 - [router-fu](https://github.com/realityforge/router-fu) - A framework agnostic, state producing router :sparkling_heart:
 
 ## Event Bus
@@ -154,6 +154,7 @@ application development easy to start with :sparkling_heart:
 validator for GWT :sparkling_heart:
 - [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) - Java Bean 
 validators :sparkling_heart:
+- [malio](https://github.com/NaluKit/malio) - Validation library for Java, GWT & J2CL :sparkling_heart:
 
 ## Data Binding
 - [hexa.binding](https://github.com/ltearno/hexa.tools/tree/master/hexa.binding) - Fast dynamic data binding between values, 
