@@ -99,14 +99,17 @@ application development easy to start with :sparkling_heart:
 [material design](https://material.io/design) :sparkling_heart:
 - [react4j](https://github.com/react4j/react4j.github.io) - UI framework based on 
 [react](https://reactjs.org) :sparkling_heart:
+- [patternfly-java](https://github.com/patternfly-java/patternfly-java) - UI framework based on 
+[patternfly](https://www.patternfly.org) :sparkling_heart:
+- [gwtbootstrap5](https://github.com/themarioga/gwtbootstrap5) - UI framework based on latest
+[bootstrap 5](https://getbootstrap.com) :sparkling_heart:
+- [sayaya ui](https://github.com/sayaya1090/sayaya-ui) - UI framework based on [Material Web Components](https://github.com/material-components/material-web) :sparkling_heart:
+- [errai](https://github.com/errai/errai) - UI framework based on JavaEE :sparkling_heart:
 - [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) - UI framework based on 
 [bootstrap](https://getbootstrap.com) :sparkling_heart:
 - [vue-gwt](https://github.com/VueGWT/vue-gwt) - UI framework based on [vuejs](https://vuejs.org) :sparkling_heart:
 - [dncomponents](https://dncomponents.com/index.html) - UI framework based on [bootstrap](https://getbootstrap.com) and 
 [material design](https://material.io/design) :sparkling_heart:
-- [patternfly-java](https://github.com/patternfly-java/patternfly-java) - UI framework based on 
-[patternfly](https://www.patternfly.org) :sparkling_heart:
-- [errai](https://github.com/errai/errai) - UI framework based on JavaEE :sparkling_heart:
 - [smartgwt](https://www.smartclient.com/product/smartgwt.jsp) - UI framework for GWT from Isomorphic Software 
 - [sencha-gxt](https://www.sencha.com/products/gxt) - UI framework for GWT from Sencha Idera 
 - [gwt-react](https://github.com/GWTReact/gwt-react) - UI framework based on [react](https://reactjs.org)
@@ -139,6 +142,7 @@ application development easy to start with :sparkling_heart:
 ## HTTP and REST Library
 
 - [domino-rest](https://github.com/DominoKit/domino-rest) - REST framework :sparkling_heart:
+- [resty-gwt](https://github.com/NewsRx/resty-gwt) REST framework based on jakarta classes :sparkling_heart:
 - [resty-gwt](https://github.com/resty-gwt/resty-gwt) - REST framework :sparkling_heart:
 - [requestor](https://github.com/reinert/requestor) - HTTP Event-Driven Client API framework :sparkling_heart: 
 
@@ -249,6 +253,7 @@ generates a serviceworker :sparkling_heart:
 
 - [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) - Reactive library :sparkling_heart:
 - [rxgwt](https://github.com/intendia-oss/rxgwt) - Reactive library :sparkling_heart:
+- [sayaya rx](https://github.com/sayaya1090/sayaya-rx) - RxJS binding library :sparkling_heart:
 
 ## Caching Library
 
